@@ -1,5 +1,8 @@
 # From Role-Play to Drama-Interaction: An LLM Solution
 
+Paper: [https://arxiv.org/abs/2405.14231](https://arxiv.org/abs/2405.14231)
+Demo: [https://www.bilibili.com/video/BV1sZ421x7oU](https://www.bilibili.com/video/BV1sZ421x7oU)
+
 ## 🚀 Overview
 
 We introduce LLM-powered Interactive Drama, where players embark on a narrative journey through interactions with our Drama LLM. LLM adeptly responds in accordance with the drama script, enabling players to engage in immersive chats with characters and actively shape the story's progression through conversations and actions.
